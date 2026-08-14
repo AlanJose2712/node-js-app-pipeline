@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: alanjose2929/ultimate-cicd:latest
+        image: alanjose2929/ultimate-cicd:5
         ports:
         - containerPort: 3000
         resources:
